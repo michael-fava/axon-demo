@@ -1,0 +1,8 @@
+logging:
+  level:
+    root: DEBUG
+
+
+spring:
+  application:
+    name: Axon-API-${server.port}
